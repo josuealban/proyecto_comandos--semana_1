@@ -1,0 +1,3 @@
+La terminal permite administrar archivos y carpetas.
+Estos conocimientos son utiles para desarrollar software.
+Aprendi a utilizar los comandos de Linux.

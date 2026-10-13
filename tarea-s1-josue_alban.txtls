@@ -1,0 +1,8 @@
+    1  cd ~/Desktop
+    2  cd ~/Desktop
+    3  mkdir proyecto_comandos
+    4  cd proyecto_comandos
+    5  mkdir documentos imagenes scripts
+    6  ls
+    7  pwd
+    8  history | cat > tarea-s1-josue_alban.txtls
