@@ -301,7 +301,7 @@ La carpeta `imagenes` fue eliminada como parte del procedimiento solicitado.
 
 ### 9.2. Evidencia del resultado final
 
-![Figura 9-1. Estructura final de archivos y directorios después de ejecutar los comandos en Git Bash.](<evidencias (proximo a imgs)/9-1_estrucutura_final.png>)
+![Figura 9-1. Estructura final de archivos y directorios después de ejecutar los comandos en Git Bash.](evidencias/9-1_resulatados.png)
 
 ### 9.3. Análisis de los resultados
 
